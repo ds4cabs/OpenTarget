@@ -1,5 +1,11 @@
 # OpenTarget
 
+[![GitHub Pages: live](https://img.shields.io/badge/GitHub_Pages-live-brightgreen?logo=github)](https://ds4cabs.github.io/OpenTarget/)
+![CABS: 2026](https://img.shields.io/badge/CABS-2026-6f42c1)
+![status: MVP in progress](https://img.shields.io/badge/status-MVP_in_progress-f1c40f)
+![type: Dossier Generator](https://img.shields.io/badge/type-Dossier_Generator-1f6feb)
+![domain: Target Validation](https://img.shields.io/badge/domain-Target_Validation-0aa)
+
 **Intern:** Xiaoxue Li
 **Project Type:** Dossier Generator
 
